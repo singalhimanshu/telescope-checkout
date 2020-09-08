@@ -1,6 +1,6 @@
 # telescope-checkout
 
-[WIP] [Switch](Switch) branches with [telescope.nvim](https://github.com/nvim-lua/telescope.nvim).
+[WIP] Switch[](Switch) branches with [telescope.nvim](https://github.com/nvim-lua/telescope.nvim).
 
 ## Installation
 Make sure you have installed [telescope.nvim](https://github.com/nvim-lua/telescope.nvim)
